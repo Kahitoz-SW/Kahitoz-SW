@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8b5cf6&labelColor=111827&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Kahitoz-SW?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Kahitoz-SW?style=for-the-badge&color=8b5cf6&labelColor=111827&logo=github&logoColor=white" /></a>
 <img alt="Focus: Generative AI" src="https://img.shields.io/badge/FOCUS-GENERATIVE%20AI-a78bfa?style=for-the-badge&labelColor=111827" />
 <img alt="Building in public" src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-34d399?style=for-the-badge&labelColor=111827" />
 
@@ -137,13 +137,13 @@ Exploring delightful learning experiences with **interactive tutors**, adaptive 
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME in the URLs below with your real GitHub username. -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=cbd5e1&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1&langs_count=7" alt="Most used languages" />
+<!-- Replace Kahitoz-SW in the URLs below with your real GitHub username. -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kahitoz-SW&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=cbd5e1&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahitoz-SW&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1&langs_count=7" alt="Most used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=34D399&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Kahitoz-SW&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=34D399&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
 
 </div>
 
@@ -163,7 +163,7 @@ Beyond the terminal:
 
 **Have an interesting problem to solve?** I'm always happy to connect with builders and curious minds.
 
-<a href="https://github.com/YOUR_USERNAME"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Kahitoz-SW"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <sub>Made with curiosity, caffeine, and an unreasonable number of side projects. ✨</sub>
 
