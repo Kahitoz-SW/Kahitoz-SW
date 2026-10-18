@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Kshitiz Sinha. Engineering intelligence, building possibilities.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="0.55" stop-color="#101426"/><stop offset="1" stop-color="#0b1420"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a78bfa"/><stop offset=".55" stop-color="#67e8f9"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".24"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#a6b4d0" opacity=".16"/></pattern>
+<clipPath id="round"><rect x="1" y="1" width="1198" height="388" rx="25"/></clipPath>
+</defs>
+<g clip-path="url(#round)"><rect width="1200" height="390" fill="url(#bg)"/><rect width="1200" height="390" fill="url(#dots)"/>
+<circle cx="905" cy="166" r="330" fill="url(#glow)"/>
+<path d="M0 319 C260 270 380 410 655 327 S1010 236 1200 302" fill="none" stroke="#8b5cf6" opacity=".17" stroke-width="1.5"/>
+<path d="M0 344 C220 295 402 429 660 354 S1040 267 1200 330" fill="none" stroke="#67e8f9" opacity=".16" stroke-width="1"/>
+<rect x="57" y="49" width="192" height="29" rx="14.5" fill="#22263c" stroke="#4c476b"/><circle cx="75" cy="63.5" r="4.5" fill="#34d399"/><text x="90" y="69" fill="#d8d3ff" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">HELLO, WORLD!</text>
+<text x="54" y="163" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800" letter-spacing="-2" fill="#f8fafc">Kshitiz <tspan fill="url(#accent)">Sinha.</tspan></text>
+<text x="58" y="213" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#cbd5e1">Engineering intelligence. Building possibilities.</text>
+<rect x="58" y="250" width="370" height="2" rx="1" fill="url(#accent)"/>
+<text x="58" y="286" font-family="monospace" font-size="17" fill="#a6b3ce">ML ENGINEER  <tspan fill="#6b7b9a">/</tspan>  GENAI  <tspan fill="#6b7b9a">/</tspan>  MLOPS</text>
+<text x="58" y="342" font-family="monospace" font-size="14" fill="#7e91b1">// always shipping, always learning</text>
+<g transform="translate(816 63)" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="137" cy="128" r="119" fill="#151d33" stroke="#313d60" stroke-width="1.5"/>
+<circle cx="137" cy="128" r="85" fill="none" stroke="#52688a" stroke-dasharray="2 9" opacity=".45"/>
+<path d="M52 130 L98 84 L156 107 L204 63 M98 84 L111 163 L172 185 L222 137 M156 107 L172 185 M52 130 L111 163" fill="none" stroke="#6d74c9" stroke-width="2" opacity=".8"/>
+<path d="M98 84 L157 107 L222 137" fill="none" stroke="#67e8f9" stroke-width="2.5"/>
+<g fill="#0b1020" stroke-width="3"><circle cx="52" cy="130" r="9" stroke="#a78bfa"/><circle cx="98" cy="84" r="10" stroke="#a78bfa"/><circle cx="156" cy="107" r="13" stroke="#67e8f9"/><circle cx="204" cy="63" r="8" stroke="#34d399"/><circle cx="111" cy="163" r="10" stroke="#8b5cf6"/><circle cx="172" cy="185" r="12" stroke="#34d399"/><circle cx="222" cy="137" r="10" stroke="#67e8f9"/></g>
+<circle cx="156" cy="107" r="4" fill="#67e8f9"/><circle cx="172" cy="185" r="4" fill="#34d399"/>
+</g>
+<rect x="1" y="1" width="1198" height="388" rx="25" fill="none" stroke="#454663" stroke-opacity=".6" stroke-width="2"/>
+</g>
+</svg>
